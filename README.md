@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yosra Atef and I'm software developer  from mansoura</h2>
+<h2 align="left">Hi 👋! My name is  Yosra Atef and 🌱 I currently work as Backend Software Developer 👀 I’m interested in Software Development,  Software Development and Artificial Intelligence. I’m looking to collaborate on projects related to the topics mentioned above and projects where I can collaborate with the programming languages I know.</h2>
 
 ###
 
